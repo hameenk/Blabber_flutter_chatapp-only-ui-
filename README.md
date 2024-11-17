@@ -6,13 +6,18 @@
 
 ---
 
-## Features  
+### Features  
 
 ### 🌟 Highlights  
-- **Login Page**: A simple login screen with text fields, buttons, and styling.  
-- **Calls Screen**: A visually appealing call log with profile icons, timestamps, and action buttons.  
-- **Custom Widgets**: Reusable Flutter widgets for scalability and clean code.  
-- **Responsive Design**: Works seamlessly on various screen sizes and orientations.  
+
+- **Login Page**: Clean interface with input fields, login, and account creation options.  
+- **Calls Screen**: Call history with profile icons, timestamps, and action buttons.  
+- **Chat Page**: Messaging UI with chat bubbles, input bar, and multimedia support.  
+- **AI Chatbot Page**: Interactive bot with a minimalist design for AI-driven conversations.  
+- **Note Page**: Add, edit, and manage notes with a searchable list.  
+- **Custom Widgets**: Reusable components for scalability and clean code.  
+- **Responsive Design**: Optimized for various screen sizes and orientations.  
+
 
 ### 📱 Screens Overview  
 1. **Login Screen**:  
