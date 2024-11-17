@@ -33,11 +33,14 @@
 ## Screenshots  
 
 ### Login Screen  
-![Login Screen](relative-path-to-login-screenshot)  
+<img src="https://github.com/user-attachments/assets/9dad4152-28aa-4193-8773-f8cf98a23454" alt="alt Text" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/97486cea-2b75-44f1-a199-a84e3742ff59" alt="alt Text" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/6b9a4129-1b5c-48e6-8cff-0c692507d133" alt="alt Text" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/6518adff-628f-4647-b403-e766581e0905" alt="alt Text" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/ffcda34c-c8ee-4e97-9796-168a86b84722" alt="alt Text" width="40" height="40">
 
 ### Call History Screen  
-![Calls Screen](relative-path-to-calls-screenshot)  
-
+<img src="https://github.com/user-attachments/assets/62feb662-939f-4f43-a71b-315c97224e35" alt="alt Text" width="40" height="40">
 ---
 
 ## Installation  
