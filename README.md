@@ -1,16 +1,46 @@
-# simple_whatapp_project
+# Blabber - Flutter Chat App UI  
 
-A new Flutter project.
+**Blabber** is a modern **Flutter-based UI** inspired by messaging apps like WhatsApp. This project focuses on the **frontend design**, showcasing a clean, responsive, and reusable user interface for chat applications.  
 
-## Getting Started
+> ⚠️ **Note**: This project does not include any backend functionality. It is purely a UI demo for learning and development purposes.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🌟 Highlights  
+- **Login Page**: A simple login screen with text fields, buttons, and styling.  
+- **Calls Screen**: A visually appealing call log with profile icons, timestamps, and action buttons.  
+- **Custom Widgets**: Reusable Flutter widgets for scalability and clean code.  
+- **Responsive Design**: Works seamlessly on various screen sizes and orientations.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📱 Screens Overview  
+1. **Login Screen**:  
+   - Input fields for username and password.  
+   - Login and "Create Account" buttons with a "Forgot Password" link.  
+
+2. **Call History Screen**:  
+   - List of calls with icons, names/numbers, call types, and timestamps.  
+   - Integrated action buttons (e.g., call button).  
+
+---
+
+## Screenshots  
+
+### Login Screen  
+![Login Screen](relative-path-to-login-screenshot)  
+
+### Call History Screen  
+![Calls Screen](relative-path-to-calls-screenshot)  
+
+---
+
+## Installation  
+
+Follow these steps to view and run the app:  
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/your-username/blabber-ui.git
+   cd blabber-ui
+
