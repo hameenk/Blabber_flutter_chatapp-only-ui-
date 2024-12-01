@@ -31,7 +31,7 @@
 ---
 
 ## Screenshots  
-
+<div>
 <img src="https://github.com/user-attachments/assets/9dad4152-28aa-4193-8773-f8cf98a23454" alt="alt Text" width="110" height="220">
 
 <img src="https://github.com/user-attachments/assets/97486cea-2b75-44f1-a199-a84e3742ff59" alt="alt Text" width="110" height="220">
@@ -43,6 +43,7 @@
 <img src="https://github.com/user-attachments/assets/ffcda34c-c8ee-4e97-9796-168a86b84722" alt="alt Text" width="110" height="220"> 
 
 <img src="https://github.com/user-attachments/assets/62feb662-939f-4f43-a71b-315c97224e35" alt="alt Text" width="110" height="220">
+</div>
 ---
 
 ## Installation  
