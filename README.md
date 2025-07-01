@@ -2,8 +2,9 @@
 
 **Blabber** is a modern **Flutter-based UI** inspired by messaging apps like WhatsApp. This project focuses on the **frontend design**, showcasing a clean, responsive, and reusable user interface for chat applications.  
 
-> ⚠️ **Note**: This project does not include any backend functionality. It is purely a UI demo for learning and development purposes.  
-<img src="WhatsApp Image 2025-06-26 at 14.43.17_9f344da7.jpg" alt="alt Text" width="210" height="120"> 
+> ⚠️ **Note**: This project does not include any backend functionality. It is purely a UI demo for learning and development purposes.
+> 
+<img src="WhatsApp Image 2025-06-26 at 14.43.17_9f344da7.jpg" alt="alt Text" width="410" height="220" bordercolor="black"> 
 ---
 
 ### Features  
