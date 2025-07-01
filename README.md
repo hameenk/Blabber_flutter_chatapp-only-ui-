@@ -4,8 +4,8 @@
 
 > ⚠️ **Note**: This project does not include any backend functionality. It is purely a UI demo for learning and development purposes.
 > 
-<img src="WhatsApp Image 2025-06-26 at 14.43.17_9f344da7.jpg" alt="alt Text" width="410" height="220" bordercolor="black"> 
----
+
+<img src="WhatsApp Image 2025-06-26 at 14.43.17_9f344da7.jpg" alt="Login Screen" width="410" height="220" style="border: 2px solid black; border-radius: 10px;">
 
 ### Features  
 
